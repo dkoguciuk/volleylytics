@@ -1,0 +1,15 @@
+Copyright (c) 2025-2026 Daniel Koguciuk. All rights reserved.
+
+Volleylytics, including its source code, design, graphics and match file
+format, is proprietary. You may use the published app to scout your own
+team's matches. You may not copy, modify, redistribute, sell or publish the
+app or its source code, in whole or in part, without written permission
+from the copyright holder.
+
+Third-party parts keep their own licences:
+- Godot Engine: MIT licence (https://godotengine.org/license)
+- Barlow fonts: SIL Open Font License 1.1 (see assets/fonts/LICENSE.txt)
+
+The VBCZU club name and logo (assets/vbczu.png) belong to the club and
+are not covered by this copyright. They may not be reused without the
+club's permission.
